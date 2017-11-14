@@ -23,7 +23,7 @@ weui.js
 安装
 
 ```shell
-git clone https://github.com/Tencent/weui.js.git
+git clone https://github.com/zxh930508/weui.js.git
 cd weui.js
 npm install
 npm start
@@ -59,7 +59,7 @@ weui.alert('alert');
 
 ### 文档
 
-[Documents](https://github.com/Tencent/weui.js/tree/master/docs/README.md)
+[Documents](https://github.com/zxh930508/weui.js/tree/master/docs/README.md)
 
 ### 贡献
 
